@@ -15,7 +15,7 @@ Este README descreve os principais serviços do Microsoft Azure relacionados ao 
 ## Introdução
 O Microsoft Azure oferece uma ampla gama de serviços para desenvolvedores que buscam criar, implementar e gerenciar aplicativos escaláveis, seguros e resilientes. Este documento cobre os serviços mais usados e suas funcionalidades principais, ajudando você a entender seu propósito e uso em projetos reais.
 
-## Gerenciamento de API (Azure API Management)
+## Gerenciamento de API 
 O Azure API Management ajuda no gerenciamento de APIs internas e externas, oferecendo recursos como:
 
 - Controle de acesso: Autenticação baseada em certificados, tokens e chaves de API.
