@@ -12,7 +12,7 @@ Este README descreve os principais serviços do Microsoft Azure relacionados ao 
 8. [Desenvolvimento e Implementação](#desenvolvimento-e-implementação)
 9. [Recursos Adicionais](#recursos-adicionais)
 
-## 📖 ## Introdução
+## Introdução
 O Microsoft Azure oferece uma ampla gama de serviços para desenvolvedores que buscam criar, implementar e gerenciar aplicativos escaláveis, seguros e resilientes. Este documento cobre os serviços mais usados e suas funcionalidades principais, ajudando você a entender seu propósito e uso em projetos reais.
 
 ## Gerenciamento de API 
