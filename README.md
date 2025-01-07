@@ -24,7 +24,7 @@ O Azure API Management ajuda no gerenciamento de APIs internas e externas, ofere
 **Exemplo de caso de uso:**
 Controlar o número de chamadas à API para evitar sobrecarga, garantindo acesso apenas a clientes autenticados.
 
-## Segurança e Gestão de Segredos (Azure Key Vault)
+## Segurança e Gestão de Segredos 
 O Azure Key Vault é essencial para proteger informações sensíveis, como:
 
 - Segredos: Armazenamento de senhas, strings de conexão e outros dados confidenciais.
@@ -34,7 +34,7 @@ O Azure Key Vault é essencial para proteger informações sensíveis, como:
 - Integração com serviços do Azure para autenticação automatizada via Identidades Gerenciadas.
 - Rotação automática de segredos e chaves.
 
-## Armazenamento (Azure Blob Storage)
+## Armazenamento 
 O Azure Blob Storage é usado para armazenar grandes volumes de dados não estruturados.
 
 **Tipos de Blobs:**
@@ -45,7 +45,7 @@ O Azure Blob Storage é usado para armazenar grandes volumes de dados não estru
 - Hospedagem de arquivos estáticos para aplicativos web.
 - Armazenamento de backups de banco de dados.
 
-## Configuração Centralizada (Azure App Configuration)
+## Configuração Centralizada 
 O Azure App Configuration oferece:
 
 - Centralização de configurações para vários ambientes.
@@ -54,7 +54,7 @@ O Azure App Configuration oferece:
 **Caso de uso:**
 Alterar configurações de um aplicativo sem a necessidade de reinicialização ou implantação.
 
-## Mensageria e Filas (Azure Service Bus e Event Grid)
+## Mensageria e Filas 
 **Azure Service Bus**
 - Serviço de mensageria para comunicação assíncrona entre serviços.
 - Suporte para filas e tópicos (pub/sub).
@@ -65,7 +65,7 @@ Alterar configurações de um aplicativo sem a necessidade de reinicialização 
 - Service Bus: Processar ordens de compra em uma fila para escalabilidade.
 - Event Grid: Disparar eventos para funções serverless ao carregar um arquivo no Blob Storage.
 
-## Monitoramento e Diagnóstico (Azure Monitor e Application Insights)
+## Monitoramento e Diagnóstico 
 **Azure Monitor**
 - Coleta e análise de logs e métricas de desempenho.
 **Application Insights**
@@ -75,7 +75,7 @@ Alterar configurações de um aplicativo sem a necessidade de reinicialização 
 **Caso de uso:**
 Monitorar um aplicativo web para identificar consultas de banco de dados lentas e erros de API.
 
-## Desenvolvimento e Implementação (Azure Functions e Azure App Services)
+## Desenvolvimento e Implementação 
 **Azure Functions**
 - Serviço serverless para execução de código em resposta a eventos.
 - Suporte para linguagens como C#, Python, JavaScript, entre outras.
