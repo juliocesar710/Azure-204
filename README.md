@@ -2,7 +2,7 @@
 Este README descreve os principais serviços do Microsoft Azure relacionados ao desenvolvimento de aplicações, gerenciamento de APIs, segurança, armazenamento e outros tópicos abordados na Certificação AZ-204: Desenvolvedor do Microsoft Azure.
 
 ## **Índice**
-1. [📖Introdução](#introdução)
+1. [📖 Introdução](#introdução)
 2. [Gerenciamento de API](#gerenciamento-de-api)
 3. [Segurança e Gestão de Segredos](#segurança-e-gestão=de=segredos)
 4. [Armazenamento](#armazenamento)
@@ -12,7 +12,7 @@ Este README descreve os principais serviços do Microsoft Azure relacionados ao 
 8. [Desenvolvimento e Implementação](#desenvolvimento-e-implementação)
 9. [Recursos Adicionais](#recursos-adicionais)
 
-## Introdução
+## 📖 Introdução
 O Microsoft Azure oferece uma ampla gama de serviços para desenvolvedores que buscam criar, implementar e gerenciar aplicativos escaláveis, seguros e resilientes. Este documento cobre os serviços mais usados e suas funcionalidades principais, ajudando você a entender seu propósito e uso em projetos reais.
 
 ## Gerenciamento de API 
