@@ -4,12 +4,12 @@ Este README descreve os principais serviços do Microsoft Azure relacionados ao 
 ## **Índice**
 1. [Introdução](#introdução)
 2. [Gerenciamento de API (Azure API Management)](gerenciamento-de-api)
-3. Segurança e Gestão de Segredos (Azure Key Vault)
-4. Armazenamento (Azure Blob Storage)
-5. Configuração Centralizada (Azure App Configuration)
-6. Mensageria e Filas (Azure Service Bus e Event Grid)
-7. Monitoramento e Diagnóstico (Azure Monitor e Application Insights)
-8. Desenvolvimento e Implementação (Azure Functions e Azure App Services)
+3. [Segurança e Gestão de Segredos (Azure Key Vault)](segurança-e-gestão=de=segredos)
+4. [Armazenamento (Azure Blob Storage)](armazenamento)
+5. [Configuração Centralizada (Azure App Configuration)](configuração-centralizada)
+6. [Mensageria e Filas (Azure Service Bus e Event Grid)](mensageria-e-filas)
+7. [Monitoramento e Diagnóstico (Azure Monitor e Application Insights)](monitoramento-ediagnóstico)
+8. [Desenvolvimento e Implementação (Azure Functions e Azure App Services)](desenvolvimento-e-implementação)
 9. [Recursos Adicionais](#recursos-adicionais)
 
 ## Introdução
