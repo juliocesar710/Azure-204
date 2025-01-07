@@ -3,13 +3,13 @@ Este README descreve os principais serviços do Microsoft Azure relacionados ao 
 
 ## **Índice**
 1. [Introdução](#introdução)
-2. [Gerenciamento de API](gerenciamento-de-api)
-3. [Segurança e Gestão de Segredos](segurança-e-gestão=de=segredos)
-4. [Armazenamento](armazenamento)
-5. [Configuração Centralizada](configuração-centralizada)
-6. [Mensageria e Filas](mensageria-e-filas)
-7. [Monitoramento e Diagnóstico](monitoramento-ediagnóstico)
-8. [Desenvolvimento e Implementação](desenvolvimento-e-implementação)
+2. [Gerenciamento de API](#gerenciamento-de-api)
+3. [Segurança e Gestão de Segredos](#segurança-e-gestão=de=segredos)
+4. [Armazenamento](#armazenamento)
+5. [Configuração Centralizada](#configuração-centralizada)
+6. [Mensageria e Filas](#mensageria-e-filas)
+7. [Monitoramento e Diagnóstico](#monitoramento-ediagnóstico)
+8. [Desenvolvimento e Implementação](#desenvolvimento-e-implementação)
 9. [Recursos Adicionais](#recursos-adicionais)
 
 ## Introdução
